@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="YOUR_IMAGE_LINK" alt="Emeka Adimora" />
+  <img src="YOUR_IMAGE_LINK_FOR_EMEKA_ADIMORA_GRAPHIC" alt="Emeka Adimora" />
 </h1>
 
 <h2 align="center">🚀 Software & Electronic Engineering Student | CFA Candidate | Quant Dev & Algorithmic Trading Enthusiast 🚀</h2>
@@ -18,8 +18,7 @@
 - 🌍 Eager to contribute to transformative projects and innovative solutions in technology and finance.
 
 ## Let's Connect
-- 📧 [Email](mailto:your.email@example.com)
-- 🔗 [LinkedIn](Your LinkedIn Profile URL)
-- 🐦 [Twitter](Your Twitter URL)
-
+- 📧 [Email](mailto:jagobaadimora)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jagobaadimora/)
+- 🐦 [Twitter](https://twitter.com/Emeka_Quant)
 
