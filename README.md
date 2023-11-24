@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="YOUR_IMAGE_LINK_FOR_EMEKA_ADIMORA_GRAPHIC" alt="Emeka Adimora" />
+  <img src="" alt="Emeka Adimora" />
 </h1>
 
 <h2 align="center">🚀 Software & Electronic Engineering Student | CFA Candidate | Quant Dev & Algorithmic Trading Enthusiast 🚀</h2>
@@ -8,7 +8,7 @@
 🎓 I am Emeka Adimora, currently pursuing Software and Electronic Engineering at ATU, Galway. I am deeply interested in fintech innovations and software development.
 
 ## What I Do
-- 💻 **Software Development:** Skilled in Python, R, C++, and Java. Developed an automated trading bot and a real-time IoT monitoring system using ESP32.
+- 💻 **Software Development:** Skilled in Python, C/C++, and Java. Developed an automated trading bot and a real-time IoT monitoring system using ESP32.
 - 📈 **Quantitative Analysis:** Proficient in statistical modeling, time-series forecasting, and risk management. Familiar with AWS and MATLAB.
 - 🤖 **Algorithmic Trading:** Passionate about algorithmic strategies and financial technologies.
 - 🥋 **Beyond Academia:** Avid practitioner of Brazilian Jiu-Jitsu, embodying strategic thinking and perseverance.
