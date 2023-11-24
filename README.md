@@ -22,6 +22,6 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jagobaadimora/)
 - 🐦 [Twitter](https://twitter.com/Emeka_Quant)
 - 
-##snake gif
-![snake gif](https://github.com/jagobaemeka/jagobaemeka/blob/output/github-contribution-grid-snake.gif)
+
+
 
